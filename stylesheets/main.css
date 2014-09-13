@@ -1,0 +1,104 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  font-size: 11pt;
+}
+
+#main {
+  margin: 15px auto;
+  width: 638px;
+  position: relative;
+}
+
+#white_box {
+  width: 290px;
+  height: 545px;
+  background-color: white;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#ballet_pic {
+  width: 348px;
+  height: 545px;
+  position: absolute;
+  left: 290px;
+}
+
+#annaway_logo {
+  width: 239px;
+  height: 87px;
+  position: absolute;
+  left: 0px;
+  top: 545px;
+}
+
+#beige_box {
+  width: 399px;
+  height: 87px;
+  background-color: #e4ebb8;
+  position: absolute;
+  left: 239px;
+  top: 545px;
+}
+
+#purple_right {
+  width: 11px;
+  height: 542px;
+  position: absolute;
+  left: 638px;
+  top: 101px;
+  background-color: #6b006f;
+}
+
+#purple_bottom {
+  width: 576px;
+  height: 11px;
+  position: absolute;
+  left: 62px;
+  top: 632px;
+  background-color: #6b006f;
+}
+
+#creativity_fi {
+  position: absolute;
+  top: 115px;
+  left: 22px;
+  color: black;
+}
+#creativity_se {
+  position: absolute;
+  top: 141px;
+  left: 22px;
+  color: black;
+}
+#creativity_en {
+  position: absolute;
+  top: 167px;
+  left: 22px;
+  color: black;
+}
+
+#marketing {
+  position: absolute;
+  top: 491px;
+  left: 22px;
+  font-size: 9pt;
+  color: #8b007b;
+}
+
+#contact {
+  position: absolute;
+  top: 556px;
+  left: 258px;
+  font-size: 8pt;
+  color: black;
+  line-height: 13px;
+}
+#contact a, #contact a:visited {
+  text-decoration: none;
+  color: black;
+}
+#contact a:hover {
+  text-decoration: underline;
+}
